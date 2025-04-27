@@ -30,7 +30,7 @@ The LDR senses the surrounding light level. When light is available, the resista
 ## Demo
 
 Check out the working demo here:  
-[Watch the Project Video](https://github.com/priyanshu643/night-light-)
+[Watch the Project Video](https://www.linkedin.com/posts/priyanshu-raj-328752326_project-automatic-night-light-this-project-activity-7320077175620083714-hXwO?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFJWGFABg-e8R-g8whT9TyRMvt899V1yW3E&utm_campaign=copy_link)
 
 ## License
 
