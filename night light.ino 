@@ -8,7 +8,9 @@ pinMode(LED, OUTPUT);
 
 void loop() 
 { 
-int data=analogRead(LDR); Serial.print(data);
+int data=analogRead(LDR); 
+
+Serial.print(data);
 
 if (data <= threshold) 
 { 
